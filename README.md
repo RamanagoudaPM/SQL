@@ -36,14 +36,21 @@
 
 ---
 
-### 📙 2. SAL Project (Coming Soon...)
+### 🎵 2. Music Store Data Analysis (SQL)
 
-💡 Focus: Advanced query logic + SAL methodology for deeper insights
+🎧 Explored a comprehensive music store dataset to derive business insights:
+- 🧍 Identified top customers and most profitable cities
+- 🎸 Analyzed Rock genre fans and top rock artists
+- ⏱️ Compared track lengths above the average
+- 💸 Uncovered invoice patterns and spending behavior
 
-⏳ Stay tuned for updates...
+🧠 Skills Applied: Multi-table Joins, Aggregations, Filtering, Ordering, Subqueries, Business Logic
+
+📊 A complete case study simulating real-time reporting and campaign decisions.
+
+🔗 **[Explore Project →](./music-store/README.md)** *(Add this folder or file to repo)*
 
 ---
-
 ## 🧰 Tech Stack
 
 | 🔧 Category | 🛠 Tools |
@@ -81,5 +88,3 @@ I’m currently upskilling in SQL, Python, Power BI, and Excel — this repo is 
 
 ⭐ Don’t forget to **star** this repo if you find it helpful!  
 Fork it, learn from it, or even suggest improvements — I'm always open! 🔄
-
----
